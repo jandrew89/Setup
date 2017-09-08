@@ -1,2 +1,2 @@
 # Setup
-Development Environment
+Javascript Development Environment
